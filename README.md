@@ -15,14 +15,14 @@ Dacă folosești un display simplu (fără driver), segmentele A-G și punctul z
 
 | Segment | Pin Arduino |
 |---------|-------------|
-| A       | D2          |
-| B       | D3          |
-| C       | D4          |
-| D       | D5          |
+| A       | D12         |
+| B       | D13         |
+| C       | D8          |
+| D       | D7          |
 | E       | D6          |
-| F       | D7          |
-| G       | D8          |
-| DP      | D9          |
+| F       | D11         |
+| G       | D9          |
+| DP      | D10         |
 
 > **Notă**: Dacă folosești un display cu mai multe cifre și control prin multiplexare, va trebui să adaugi pinii de control pentru fiecare digit (ex: D10, D11 etc.).
 
